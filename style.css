@@ -1,4 +1,14 @@
+body {
+  background-color: #EBE7E0;
+}
 
+h1{
+  color: #0B108C;
+}
+
+a {
+  color: blue;
+}
 
 /*
 Color Palette adapted from:
@@ -9,4 +19,9 @@ Light Blue: #C6D4E1
 White: #FFFFFF
 So Sleepy: #EBE7E0
 Corporate Bay: #BDB8AD
+Dark Grey: #595A57
+Dark Blue: #26408F
+Black: #000000
+Light Brown: #7A6A53
+Evening Sky-Blue: #0B108C
 */
