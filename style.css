@@ -3,13 +3,57 @@ body {
 }
 
 h1{
-  color: #0B108C;
+  color: #BDB8AD;
+  background-color: #2B4C7E;
+}
+
+h3 {
+  color: #774F38;
 }
 
 a {
   color: blue;
 }
 
+.bodyparagraphs {
+  color: #774F38;
+  width: 60%;
+  float: left;
+}
+
+
+.nav-tab{
+  width: 25%;
+  float: left;
+  background-color: #CACACA;
+  color: #2B4C7E;
+}
+
+.nav-tab:hover{
+  background-color: #F38630;
+  color: #F38630;
+}
+
+.navigation {
+  color: #2B4C7E;
+}
+
+p{
+  color: #000000;
+}
+
+.listformat {
+  color: #1F1F20;
+}
+
+.span {
+  font-weight: bold;
+}
+
+#footer {
+   bottom: 0;
+   text-align: center;
+}
 /*
 Color Palette adapted from:
 http://www.colourlovers.com/palette/59867/Blown_Entrepreneur
